@@ -5,6 +5,7 @@ A curated list of the best free online calculators organized by category.
 ## Financial Calculators
 - [Mortgage Calculator](https://go-calc.com/tools/mortgage-calculator/) - Calculate monthly payments
 - [Compound Interest Calculator](https://go-calc.com/tools/compound-interest-calculator/) - Project investment growth
+- [Future Value Calculator](https://future-value-calculator.com/) - Project future value with deposits, withdrawals, inflation, and scenarios
 - [Loan Calculator](https://go-calc.com/tools/loan-calculator/) - Compare loan options
 
 ## Health & Fitness
